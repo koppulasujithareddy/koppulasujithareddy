@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi 👋 I'm Sujitha Reddy
 
-<!--
-**koppulasujithareddy/koppulasujithareddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Student  
+💻 Learning Python and Machine Learning  
+📊 Interested in data, problem-solving, and AI basics  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### 🌱 Currently Learning
+- Python  
+- Machine Learning fundamentals  
+- Git & GitHub  
+
+---
+
+### 🛠 Skills
+- Python (basics)  
+- Problem Solving  
+- Git & GitHub  
+
+---
 -->
