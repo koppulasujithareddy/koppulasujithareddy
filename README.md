@@ -1,4 +1,4 @@
-## Hi 👋 I'm Sujitha Reddy
+## Hi 👋 I'm Koppula Sujitha Reddy
 
 🎓 Student  
 💻 Learning Python and Machine Learning  
