@@ -7,7 +7,7 @@
 
 ### 🌱 Currently Learning
 - Python  
-- Machine Learning fundamentals  
+- Machine Learning fundamentals 
 - Git & GitHub  
 
 
