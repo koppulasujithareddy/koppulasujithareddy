@@ -5,7 +5,7 @@
 📊 Interested in data, problem-solving, and AI basics
 
 
-### 🌱 Currently Learning
+### 🌱 Currently Learning 
 - Python  
 - Machine Learning fundamentals 
 - Git & GitHub  
