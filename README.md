@@ -1,6 +1,6 @@
 ## Hi 👋 I'm Koppula Sujitha Reddy
 
-🎓 Student  
+🎓 Student   
 💻 Learning Python and Machine Learning 
 📊 Interested in data, problem-solving, and AI basics
 
