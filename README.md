@@ -2,7 +2,7 @@
 
 🎓 Student   
 💻 Learning Python and Machine Learning 
-📊 Interested in data, problem-solving, and AI basics
+📊 Interested in data, problem-solving, and AI basics 
 
 
 ### 🌱 Currently Learning 
